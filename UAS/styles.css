@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#mycanvas {
+    display: block; /* Remove any margins or padding around the canvas */
+    background-color: #ee0909;
+}
